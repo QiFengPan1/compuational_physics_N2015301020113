@@ -114,4 +114,4 @@ P6=plt.plot(X6,Y6)
 plt.show()
 ```
 ## 结果展示
-![]()
+![](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/Figure_1.png)
