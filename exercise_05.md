@@ -130,5 +130,6 @@ print B.distance()
 print B.height()
 '''
 ## 结果展示
+
 ![](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1.png)
-![]](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A12.png)
+![](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A12.png)
