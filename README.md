@@ -14,3 +14,5 @@
 [Exercise_08](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/Excercise_08)
 
 [Exercise_09](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/Exercise_09)
+
+[Exercise_10](https://github.com/QiFengPan1/compuational_physics_N2015301020113/blob/master/Exercise_10)
