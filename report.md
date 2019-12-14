@@ -1,6 +1,6 @@
 # 计算物理第三次作业
 ## 题目描述
-Use the Euler method to calculate cannonshell
+Use the Euler method to calculate cannonshell trajectories ignoring both air drag and effect of air density
 ## 代码实现
 ```
 import matplotlib.pyplot as plt
